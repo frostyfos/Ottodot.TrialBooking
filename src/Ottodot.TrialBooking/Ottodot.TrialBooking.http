@@ -1,0 +1,6 @@
+@Ottodot.TrialBooking_HostAddress = http://localhost:5213
+
+GET {{Ottodot.TrialBooking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
